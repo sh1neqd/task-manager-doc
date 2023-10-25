@@ -24,7 +24,7 @@ Working with users:
 
 Working with tasks:
 
-* Create, edit (each task has a title and description)
+* Create (each task has a title and description)
 * Marking a task as done
 * Deleting
 
