@@ -37,6 +37,6 @@ For each message received, whose contents are deserialized into a model instance
 
 ## [Scheduler](https://github.com/sh1neqd/task-manager-scheduler "Scheduler")
 
-Spring Boot (Kotlin) application with two modules - Spring Scheduler and Spring AMQP.
+Spring Boot application with two modules - Spring Scheduler and Spring AMQP.
 
 The task of the service is to iterate all users once a day, generate reports for them about tasks and changes in them for a day, and generate emails for sending. The generated emails are sent to the RabbitMQ queue.
