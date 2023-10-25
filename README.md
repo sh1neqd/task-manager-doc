@@ -3,9 +3,9 @@
 Multi-user task scheduler. Users can use it as a TODO-list. Project with microservice architecture.
 
 ## Stack
-* Java, Kotlin
+* Java
 * Maven
-* Spring Boot, Spring Security, Spring Session, Spring AMQP, Spring Scheduler, Spring Mail
+* Spring Boot, Spring Security, JWT, Spring AMQP, Spring Scheduler, Spring Mail
 * PostgreSQL, Spring Data JPA
 * Docker
 * Message BrockerRabbitMQ - Queues
