@@ -7,9 +7,8 @@ Multi-user task scheduler. Users can use it as a TODO-list. Project with microse
 * Maven
 * Spring Boot, Spring Security, JWT, Spring AMQP, Spring Scheduler, Spring Mail
 * PostgreSQL, Spring Data JPA
-* Docker
 * Message BrockerRabbitMQ - Queues
-* CI/CD
+
 A microservice approach was used in the project development. The project includes 3 microservices:
 
 
